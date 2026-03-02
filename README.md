@@ -26,3 +26,8 @@ npm run agent
 - Start with `npm run flow` first.
 - Only use `npm run agent` after env is set.
 - Keep policy narrow in `machines.policy.json`.
+
+## Live Preview
+
+- Preview: https://skill-deploy-fz3jo069tl-codex-agent-deploys.vercel.app
+
