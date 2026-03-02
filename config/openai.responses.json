@@ -1,0 +1,11 @@
+{
+  "model": "gpt-5",
+  "tools": [
+    {
+      "type": "mcp",
+      "server_label": "machines",
+      "server_url": "https://mcp.machines.cash/mcp",
+      "require_approval": "never"
+    }
+  ]
+}
